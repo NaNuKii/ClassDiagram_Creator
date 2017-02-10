@@ -1,0 +1,29 @@
+﻿<UserControl Tag="{Binding DataContext, RelativeSource={RelativeSource AncestorType={x:Type Window}}}"
+             x:Class="WindowsProgrammering.View.ExpanderUC"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WindowsProgrammering.View"
+             mc:Ignorable="d" d:DesignWidth="300" Height="auto">
+    <Grid Margin="0,0,0,-445">
+    <Expander x:Name="expander" ExpandDirection="Left" Margin="0,10,0,375">
+        <StackPanel>
+            <GroupBox Header="Class">
+                <ToggleButton Content="Add class" Height="Auto" Width="150"  x:Name="classDiagramButton" 
+                              Margin="9,0,6,3" Command="{Binding AddClassCommand}"/>
+            </GroupBox>
+
+                <GroupBox Header="Arrow">
+                    <ToggleButton Content="Association" Height="Auto" Width="150" x:Name="ArrowButton"        
+                              Margin="9,0,6,2" Command="{Binding AddAssociationArrowCommand}" RenderTransformOrigin="0.501,1.684"/>
+                </GroupBox>
+                <GroupBox>
+                <ToggleButton Content="Normal" Height="Auto" Width="150" x:Name="ArroButton"        
+                              Margin="9,0,6,4" Command="{Binding AddNormalArrowCommand}"/>
+            </GroupBox>
+
+        </StackPanel>
+    </Expander>
+    </Grid>
+</UserControl>

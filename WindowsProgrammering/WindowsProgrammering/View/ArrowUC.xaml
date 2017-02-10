@@ -1,0 +1,14 @@
+﻿<UserControl x:Class="WindowsProgrammering.View.ArrowUC"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WindowsProgrammering.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <Path Stroke="{Binding SelectedColor}" StrokeThickness="1" Data="{Binding Path}" StrokeDashArray="{Binding Dashed}"/>
+        <Path Stroke="Transparent" StrokeThickness="10" Data="{Binding Path}"/>
+        <Polyline Points="{Binding Arrow}" Fill="{Binding ColorFill}" Stroke="{Binding SelectedColor}" StrokeThickness="1"/>
+    </Grid>
+</UserControl>

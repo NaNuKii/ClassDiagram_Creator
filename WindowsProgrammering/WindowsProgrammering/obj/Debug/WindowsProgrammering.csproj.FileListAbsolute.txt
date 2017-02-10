@@ -1,0 +1,282 @@
+\\mac\home\documents\visual studio 2015\Projects\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\MainWindow.g.cs
+\\mac\home\documents\visual studio 2015\Projects\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\ArrowUserControl.g.cs
+\\mac\home\documents\visual studio 2015\Projects\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\DiagramUserControl.g.cs
+\\mac\home\documents\visual studio 2015\Projects\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\MenuBarUserControl.g.cs
+\\mac\home\documents\visual studio 2015\Projects\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\SidePanelUserControl.g.cs
+\\mac\home\documents\visual studio 2015\Projects\WindowsProgrammering\WindowsProgrammering\obj\Debug\App.g.cs
+\\mac\home\documents\visual studio 2015\Projects\WindowsProgrammering\WindowsProgrammering\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\mac\home\documents\visual studio 2015\Projects\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering_MarkupCompile.cache
+\\mac\home\documents\visual studio 2015\Projects\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering_MarkupCompile.lref
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.exe.config
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.csprojResolveAssemblyReference.cache
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\ArrowUserControl.g.cs
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\MenuBarUserControl.g.cs
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\SidePanelUserControl.g.cs
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering_MarkupCompile.cache
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering_MarkupCompile.lref
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\DiagramUserControl.g.cs
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\App.g.cs
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\MainWindow.g.cs
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\MainWindow.baml
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\ArrowUserControl.baml
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\DiagramUserControl.baml
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\MenuBarUserControl.baml
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\SidePanelUserControl.baml
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.exe
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.pdb
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.exe
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.pdb
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\System.Windows.Interactivity.dll
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.Model.dll
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.Model.pdb
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\App.baml
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.g.resources
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.Properties.Resources.resources
+C:\Visual Studio Programs\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.csproj.GenerateResource.Cache
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.exe.config
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.exe
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.pdb
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.exe
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.pdb
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.dll
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\System.Windows.Interactivity.dll
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.Model.dll
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.Model.pdb
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.pdb
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.xml
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.csprojResolveAssemblyReference.cache
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\MainWindow.g.cs
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\ArrowUserControl.g.cs
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\DiagramUserControl.g.cs
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\MenuBarUserControl.g.cs
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\SidePanelUserControl.g.cs
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\App.g.cs
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering_MarkupCompile.cache
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering_MarkupCompile.lref
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\App.baml
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\MainWindow.baml
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\ArrowUserControl.baml
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\DiagramUserControl.baml
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\MenuBarUserControl.baml
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\SidePanelUserControl.baml
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.g.resources
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.Properties.Resources.resources
+\\psf\Home\Downloads\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.csproj.GenerateResource.Cache
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.exe.config
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.exe
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.pdb
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.exe
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.pdb
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.Model.dll
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.Model.pdb
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.csprojResolveAssemblyReference.cache
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\MainWindow.g.cs
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\ArrowUserControl.g.cs
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\DiagramUserControl.g.cs
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\MenuBarUserControl.g.cs
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\SidePanelUserControl.g.cs
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\App.g.cs
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering_MarkupCompile.cache
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering_MarkupCompile.lref
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\App.baml
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\MainWindow.baml
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\ArrowUserControl.baml
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\DiagramUserControl.baml
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\MenuBarUserControl.baml
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\SidePanelUserControl.baml
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.g.resources
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.Properties.Resources.resources
+C:\Users\Nael\Documents\DTU\Windows Programming C# .Net\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.csproj.GenerateResource.Cache
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.exe.config
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.exe
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.pdb
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.exe
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.pdb
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.dll
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\System.Windows.Interactivity.dll
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.Model.dll
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.Model.pdb
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.pdb
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.xml
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\MainWindow.g.cs
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\App.g.cs
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering_MarkupCompile.cache
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering_MarkupCompile.lref
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\App.baml
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\MainWindow.baml
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.g.resources
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.Properties.Resources.resources
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.csproj.GenerateResource.Cache
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\ArrowUC.g.cs
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\ClassUC.g.cs
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\RibbonUC.g.cs
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\ExpanderUC.g.cs
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\ArrowUC.baml
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\ClassUC.baml
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\RibbonUC.baml
+\\psf\Home\Desktop\VoresProgramNæsten\VoresProgramNæsten\VoresProgram\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\ExpanderUC.baml
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.exe.config
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.exe
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.pdb
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.exe
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.pdb
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.dll
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\System.Windows.Interactivity.dll
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.Model.dll
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.Model.pdb
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.pdb
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.xml
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\MainWindow.g.cs
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\ArrowUC.g.cs
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\ClassUC.g.cs
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\RibbonUC.g.cs
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\ExpanderUC.g.cs
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\App.g.cs
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering_MarkupCompile.cache
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering_MarkupCompile.lref
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\App.baml
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\MainWindow.baml
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\ArrowUC.baml
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\ClassUC.baml
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\RibbonUC.baml
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\ExpanderUC.baml
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.g.resources
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.Properties.Resources.resources
+\\psf\Home\Desktop\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.csproj.GenerateResource.Cache
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.exe.config
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.exe
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.pdb
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.exe
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.pdb
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\System.Windows.Interactivity.dll
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.Model.dll
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.Model.pdb
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.csprojResolveAssemblyReference.cache
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\MainWindow.g.cs
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\ArrowUC.g.cs
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\ClassUC.g.cs
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\RibbonUC.g.cs
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\ExpanderUC.g.cs
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\App.g.cs
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering_MarkupCompile.cache
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering_MarkupCompile.lref
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\App.baml
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\MainWindow.baml
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\ArrowUC.baml
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\ClassUC.baml
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\RibbonUC.baml
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\ExpanderUC.baml
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.g.resources
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.Properties.Resources.resources
+C:\Visual Studio Programs\Finalmåske\02350_Group9\02350_Group9\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.csproj.GenerateResource.Cache
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.exe.config
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.exe
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.pdb
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.exe
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.pdb
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\System.Windows.Interactivity.dll
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.Model.dll
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\WindowsProgrammering.Model.pdb
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.csprojResolveAssemblyReference.cache
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\MainWindow.g.cs
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\ArrowUC.g.cs
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\ClassUC.g.cs
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\RibbonUC.g.cs
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\ExpanderUC.g.cs
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\App.g.cs
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering_MarkupCompile.cache
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering_MarkupCompile.lref
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\App.baml
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\MainWindow.baml
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\ArrowUC.baml
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\ClassUC.baml
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\RibbonUC.baml
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\View\ExpanderUC.baml
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.g.resources
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.Properties.Resources.resources
+C:\Visual Studio Programs\Finalen\ClassDiagramApp\WindowsProgrammering\WindowsProgrammering\obj\Debug\WindowsProgrammering.csproj.GenerateResource.Cache

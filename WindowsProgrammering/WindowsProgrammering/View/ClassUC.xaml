@@ -1,0 +1,98 @@
+﻿<UserControl Tag="{Binding DataContext, RelativeSource={RelativeSource AncestorType={x:Type Window}}}"
+             x:Class="WindowsProgrammering.View.ClassUC"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+             xmlns:cmd="clr-namespace:GalaSoft.MvvmLight.Command;assembly=GalaSoft.MvvmLight.Platform"
+             xmlns:local="clr-namespace:WindowsProgrammering.View"
+             mc:Ignorable="d" Height="Auto" Width="144"
+             xmlns:Utility="clr-namespace:WindowsProgrammering.Utility"
+             xmlns:ViewModel="clr-namespace:WindowsProgrammering.ViewModel" 
+             xmlns:Class="WindowsProgrammering.View.DiagramUserControl" 
+             Canvas.Left="{Binding X}" Canvas.Top="{Binding Y}" d:DesignWidth="300"
+             Utility:SizeObserver.Observe="True"
+             Utility:SizeObserver.ObservedHeight="{Binding Height, Mode=OneWayToSource}"
+             Utility:SizeObserver.ObservedWidth="{Binding Width, Mode=OneWayToSource}">
+    
+    <UserControl.ContextMenu>
+        <ContextMenu DataContext="{Binding Path=PlacementTarget.Tag, RelativeSource={RelativeSource Self}}">
+            <MenuItem Header="Delete" Command="{Binding DeleteCommand}" />
+        </ContextMenu>
+    </UserControl.ContextMenu>
+    
+    <DockPanel Margin="0,0,0,-30" >
+     
+        <!-- Interaction.Triggers og EventTriggers er taget fra UMLDesigner og tilpasset vores projekt-->
+        <!--  Her bliver de tre events MouseDown, MouseMove og MouseUp bundet til de tilsvarende kommandoer på MainViewModel.-->
+        <i:Interaction.Triggers>
+            <i:EventTrigger EventName="MouseDown">
+                <cmd:EventToCommand Command="{Binding DataContext.MouseDown, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Window}}}" PassEventArgsToCommand="True"/>
+            </i:EventTrigger>
+            <i:EventTrigger EventName="MouseMove">
+                <cmd:EventToCommand Command="{Binding DataContext.MouseMove, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Window}}}" PassEventArgsToCommand="True"/>
+            </i:EventTrigger>
+            <i:EventTrigger EventName="MouseUp">
+                <cmd:EventToCommand Command="{Binding DataContext.MouseUp, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Window}}}" PassEventArgsToCommand="True"/>
+            </i:EventTrigger>
+        </i:Interaction.Triggers>
+        
+        <Grid Margin="0,0,10,0">
+            <Grid.Background>
+                <SolidColorBrush Color="SteelBlue"/>
+            </Grid.Background>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="20"/>
+                <RowDefinition Height="25"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="1"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="1"/>
+            </Grid.RowDefinitions>
+
+            <Rectangle Opacity="{Binding DataContext.ModeOpacity, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Window}}}" Stroke="Transparent" StrokeThickness="6" StrokeDashArray="3.1">
+                <Rectangle.Fill>
+                    <RadialGradientBrush>
+                    </RadialGradientBrush>
+                </Rectangle.Fill>
+                <i:Interaction.Triggers>
+                    <i:EventTrigger EventName="MouseDown">
+                        <cmd:EventToCommand Command="{Binding DataContext.MouseDown, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Window}}}" PassEventArgsToCommand="True"/>
+                    </i:EventTrigger>
+                    <i:EventTrigger EventName="MouseMove">
+                        <cmd:EventToCommand Command="{Binding DataContext.MouseMove, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Window}}}" PassEventArgsToCommand="True"/>
+                    </i:EventTrigger>
+                    <i:EventTrigger EventName="MouseUp">
+                        <cmd:EventToCommand Command="{Binding DataContext.MouseUp, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Window}}}" PassEventArgsToCommand="True"/>
+                    </i:EventTrigger>
+                </i:Interaction.Triggers>
+                </Rectangle>
+   
+            <TextBox Grid.Row="1" Width="130" Height="43" 
+                 Background="SteelBlue" 
+                 TextChanged="TextBox_TextChanged" 
+                 Text="Class Name"
+                 Foreground="Azure"
+                 TextAlignment="Center"/>
+            <TextBox Grid.Row="2" Width="130" 
+                 VerticalAlignment="Stretch"
+                 Background="Azure" 
+                 TextChanged="TextBox_TextChanged" 
+                 Text="+ Attributes"
+                 AcceptsReturn="True"
+                 AcceptsTab="True"/>
+
+            <TextBox Grid.Row="4" Width="130"
+                 VerticalAlignment="Stretch"
+                 Background="Azure" 
+                 TextChanged="TextBox_TextChanged" 
+                 Text="+ Methods()"
+                 AcceptsReturn="True"
+                 AcceptsTab="True"/>
+        </Grid>
+    </DockPanel>
+</UserControl>
+
+
+

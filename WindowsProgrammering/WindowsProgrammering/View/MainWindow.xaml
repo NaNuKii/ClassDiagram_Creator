@@ -1,0 +1,67 @@
+﻿<Window DataContext="{Binding Source={StaticResource Locator}, Path=Main}"
+        x:Class="WindowsProgrammering.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:View="clr-namespace:WindowsProgrammering.View"
+        xmlns:ViewModel="clr-namespace:WindowsProgrammering.ViewModel"
+        xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+        xmlns:cmd="clr-namespace:GalaSoft.MvvmLight.Command;assembly=GalaSoft.MvvmLight.Platform"
+        xmlns:local="clr-namespace:WindowsProgrammering"
+        mc:Ignorable="d"
+        Title="WindowsProgrammering 02350" Height="350" Width="525">
+    <Window.Resources>
+        <DataTemplate DataType="{x:Type ViewModel:ArrowViewModel}">
+            <Canvas>
+                <View:ArrowUC/>
+            </Canvas>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type ViewModel:ClassViewModel}">
+            <Canvas>
+                <View:ClassUC/>
+            </Canvas>
+        </DataTemplate>
+    </Window.Resources>
+    <Window.InputBindings>
+        <KeyBinding Command="{Binding UndoCommand}" CommandParameter="undo" Gesture="CTRL+Z"/>
+        <KeyBinding Command="{Binding RedoCommand}" CommandParameter="redo" Gesture="CTRL+R" />
+        <KeyBinding Command="{Binding SaveCommand}" CommandParameter="save" Gesture="CTRL+S"/>
+        <KeyBinding Command="{Binding LoadCommand}" CommandParameter="load" Gesture="CTRL+O"/>
+        <KeyBinding Command="{Binding AddClassCommand}" CommandParameter="newclass" Gesture="CTRL+N" />
+        <KeyBinding Command="{Binding ZoomInCommand}" CommandParameter="ZoomIn" Gesture="CTRL+K"/>
+        <KeyBinding Command="{Binding ZoomOutCommand}" CommandParameter="ZoomOut" Gesture="CTRL+J"/>
+    </Window.InputBindings>
+
+
+    <DockPanel>
+        <View:RibbonUC DockPanel.Dock="Top" Focusable="True"/>
+        <Grid DockPanel.Dock="Left">
+            <View:ExpanderUC/>
+        </Grid>
+        
+        <Grid>
+            <Grid.Background>
+                <VisualBrush TileMode="Tile"
+                             Viewport="0,0,40,40" ViewportUnits="Absolute" 
+                             Viewbox="0,0,40,40" ViewboxUnits="Absolute">
+                    <VisualBrush.Visual>
+                        <Rectangle Stroke="Black" StrokeThickness="0.05" Height="40" Width="40"/>
+                    </VisualBrush.Visual>
+                </VisualBrush>
+            </Grid.Background>
+            <Canvas >
+                <Canvas.RenderTransform>
+                    <ScaleTransform ScaleX="{Binding Scale}" ScaleY="{Binding Scale}"></ScaleTransform>
+                </Canvas.RenderTransform>
+                <ItemsControl ItemsSource="{Binding arrowCollection}"/>
+                <ItemsControl ItemsSource="{Binding classCollection}"/>
+            </Canvas>
+        </Grid>
+    </DockPanel>
+    <i:Interaction.Triggers>
+        <i:EventTrigger EventName="MouseUp">
+            <cmd:EventToCommand Command="{Binding mouseDownCanvas}" PassEventArgsToCommand="True"/>
+        </i:EventTrigger>
+    </i:Interaction.Triggers>
+</Window>
